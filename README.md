@@ -47,6 +47,6 @@ using : `make build`
 
 ***
 
-<ins>**Screenshots**</ins>
+<ins>**Screenshot**</ins>
 
 ![Screenshot](images/terminal.png)
