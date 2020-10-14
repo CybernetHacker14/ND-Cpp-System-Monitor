@@ -35,6 +35,8 @@ The following libraries need to be installed.
 Install `ncurses` within your own Linux environment by running:  
 `sudo apt install libncurses5-dev libncursesw5-dev`
 
+You can also use **Visual Studio Code** as an IDE.
+
 ***
 
 <ins>**Instructions**</ins>
