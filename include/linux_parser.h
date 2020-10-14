@@ -26,6 +26,7 @@ int TotalProcesses();
 int RunningProcesses();
 std::string OperatingSystem();
 std::string Kernel();
+std::vector<std::string> CpuUtilization();
 
 // CPU
 enum CPUStates {
@@ -40,7 +41,8 @@ enum CPUStates {
   kGuest_,
   kGuestNice_
 };
-std::vector<std::string> CpuUtilization();
+
+// Jiffies
 long Jiffies();
 long ActiveJiffies();
 long ActiveJiffies(int pid);

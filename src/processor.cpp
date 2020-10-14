@@ -2,7 +2,7 @@
 
 #include "linux_parser.h"
 
-// DONE: Return the aggregate CPU utilization
+// Returns the aggregate CPU utilization
 float Processor::Utilization() {
   totalDelta = LinuxParser::Jiffies() - prevTotal;
   idleDelta = LinuxParser::IdleJiffies() - prevIdle;

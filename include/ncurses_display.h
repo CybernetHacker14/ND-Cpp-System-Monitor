@@ -6,6 +6,7 @@
 #include "processh.h"
 #include "system.h"
 
+// Function declarations used to display data to the terminal
 namespace NCursesDisplay {
 void Display(System& system, int n = 10);
 void DisplaySystem(System& system, WINDOW* window);
