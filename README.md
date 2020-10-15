@@ -3,7 +3,7 @@
 
 ***
 
-<ins>**Description**</ins>
+<ins>**Description:**</ins>
 
 A **C++17** project which displays system information such as OS, kernel,
 memory utilization, processes, etc. in a terminal. This project is my submission 
@@ -18,14 +18,14 @@ This project runs **ONLY** in Linux environment, when compiled with `-std=c++17`
 
 ***
 
-<ins>**Cloning**</ins>
+<ins>**Cloning:**</ins>
 
 Clone this project to a local destination using git:
 `git clone https://github.com/CybernetHacker14/ND-Cpp-System-Monitor.git`
 
 ***
 
-<ins>**Pre-requisites**</ins>
+<ins>**Pre-requisites:**</ins>
 
 The following libraries need to be installed.
 
@@ -39,7 +39,7 @@ You can also use **Visual Studio Code** as an IDE.
 
 ***
 
-<ins>**Instructions**</ins>
+<ins>**Instructions:**</ins>
 
 1. Open a terminal window in the project directory, and build the project 
 using : `make build`
@@ -47,6 +47,6 @@ using : `make build`
 
 ***
 
-<ins>**Screenshot**</ins>
+<ins>**Screenshot:**</ins>
 
 ![Screenshot](images/terminal.png)
